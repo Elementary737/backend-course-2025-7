@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "inventory_name": "123",
+    "description": "1234",
+    "photoFilename": null
+  },
+  {
+    "id": "2",
+    "inventory_name": "string",
+    "description": "string",
+    "photoFilename": null
+  }
+]
